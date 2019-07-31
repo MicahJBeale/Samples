@@ -1,0 +1,20 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Defaut.Master.cs" Inherits="Lab1_Beale.Site2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <center>MENU:&nbsp;&nbsp; <a href="Default.aspx">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="/Admin/Default.aspx">ADMIN</a><br />
+                Hi, Welcome to the user intereactive area of Micah Beale&#39;s Lab 2 Website</center><asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

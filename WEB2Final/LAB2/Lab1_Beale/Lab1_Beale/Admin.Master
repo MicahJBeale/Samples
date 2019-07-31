@@ -1,0 +1,22 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.Master.cs" Inherits="Lab1_Beale.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div style="margin-left: auto; margin-right: auto; text-align: center;">
+        <p>            <center>MENU:&nbsp;&nbsp; <a href="/Default.aspx">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="/Admin/Default.aspx">ADMIN HOME</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="/Admin/CreateBrand.aspx">Create Brand</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="/Admin/CreateCategory.aspx">Create Category</a>&nbsp;&nbsp;&nbsp;&nbsp; <a href="/Admin/CreateItem.aspx">Create Item</a><p>Hi, Welcome to the administrative area of Micah Beale's Lab 2 Website.</p>
+    </div>
+    <div style="margin-left: auto; margin-right: auto; text-align: center;">
+        <form id="form1" runat="server">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </form>
+    </div>
+</body>
+</html>
