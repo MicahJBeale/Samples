@@ -1,0 +1,28 @@
+C:\Users\senor\source\repos\Lab1_Beale\Lab1_Beale\bin\Lab1_Beale.dll.config
+C:\Users\senor\source\repos\Lab1_Beale\Lab1_Beale\bin\Lab1_Beale.dll
+C:\Users\senor\source\repos\Lab1_Beale\Lab1_Beale\bin\Lab1_Beale.pdb
+C:\Users\senor\source\repos\Lab1_Beale\Lab1_Beale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\senor\source\repos\Lab1_Beale\Lab1_Beale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\senor\source\repos\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.csprojResolveAssemblyReference.cache
+C:\Users\senor\source\repos\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.csproj.CoreCompileInputs.cache
+C:\Users\senor\source\repos\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.dll
+C:\Users\senor\source\repos\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.pdb
+C:\Users\senor\OneDrive - California University of Pennsylvania\Lab1_Beale\Lab1_Beale\bin\Lab1_Beale.dll.config
+C:\Users\senor\OneDrive - California University of Pennsylvania\Lab1_Beale\Lab1_Beale\bin\Lab1_Beale.dll
+C:\Users\senor\OneDrive - California University of Pennsylvania\Lab1_Beale\Lab1_Beale\bin\Lab1_Beale.pdb
+C:\Users\senor\OneDrive - California University of Pennsylvania\Lab1_Beale\Lab1_Beale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\senor\OneDrive - California University of Pennsylvania\Lab1_Beale\Lab1_Beale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\senor\OneDrive - California University of Pennsylvania\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.csprojResolveAssemblyReference.cache
+C:\Users\senor\OneDrive - California University of Pennsylvania\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.csproj.CoreCompileInputs.cache
+C:\Users\senor\OneDrive - California University of Pennsylvania\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.dll
+C:\Users\senor\OneDrive - California University of Pennsylvania\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.pdb
+C:\Users\senor\Desktop\Lab1_Beale\Lab1_Beale\bin\Lab1_Beale.dll.config
+C:\Users\senor\Desktop\Lab1_Beale\Lab1_Beale\bin\Lab1_Beale.dll
+C:\Users\senor\Desktop\Lab1_Beale\Lab1_Beale\bin\Lab1_Beale.pdb
+C:\Users\senor\Desktop\Lab1_Beale\Lab1_Beale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\senor\Desktop\Lab1_Beale\Lab1_Beale\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\senor\Desktop\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.csprojResolveAssemblyReference.cache
+C:\Users\senor\Desktop\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.csproj.CoreCompileInputs.cache
+C:\Users\senor\Desktop\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.csproj.CopyComplete
+C:\Users\senor\Desktop\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.dll
+C:\Users\senor\Desktop\Lab1_Beale\Lab1_Beale\obj\Debug\Lab1_Beale.pdb
